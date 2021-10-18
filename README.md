@@ -3,11 +3,10 @@
 Bot for Fiverr.
 
 
-# Installation Guide
+# General Installation Guide (commands may differ based on the Operating System you use)
 
 *Note: It is assumed that you already have Python 3.8 - 3.9.6+ installed and have obtained a bot token from the discord developer portal. If you have Python 3.10+, this bot may not work as it has not been tested on that version*
 
-## Windows
 
 1. Download or clone this repository via the Green button on the top right that says "Code"
 2. Drag the download to your Desktop and unzip it (if you downloaded it)
